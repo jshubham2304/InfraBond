@@ -113,10 +113,10 @@ flutter test
 
 ### 📥 **Download APK**
 
-👉 [**Download App**](https://your-link-to-apk.com)
+👉 [**Download App**](app-release.apk)
 
 ### 🎥 **Watch Demo**
 
-▶️ [**View Demo**](https://your-link-to-demo.com)
+▶️ [**View Demo**](demo.mov)
 
 ---
